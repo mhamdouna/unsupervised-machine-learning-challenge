@@ -20,7 +20,7 @@
 * Use a for loop to determine the inertia for each k between 1 through 10.
 * Determine where the elbow of the plot is, and at which value of k it appears.
 
-### Part 3: Perform a Cluster Analysis with K-means:
+### Part 4: Make a Recommendation:
 Based on the PCA method used above **(while mainting at least 90% of the explained variance)** and based on the K-means method **(after finding a k value of 3 based on the elbow from the plot)**, I would recommend that patients can be clustered into 3 different "Myopic" clusters.
 
 
